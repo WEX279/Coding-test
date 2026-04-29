@@ -1,6 +1,6 @@
 # Estructura de un commit
 
-[tipo](alcance): [asunto][descripción]
+[tipo][alcance]: [asunto][descripción]
 
 ## Tipo:
 
